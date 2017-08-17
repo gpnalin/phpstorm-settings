@@ -1,0 +1,30 @@
+<toolSet name="External Tools">
+  <tool name="setup:upgrade" description="setup:upgrade" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="bin/magento setup:upgrade" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/codepool" />
+    </exec>
+  </tool>
+  <tool name="cache:clean" description="Cleans cache type(s)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="bin/magento cache:clean" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/codepool" />
+    </exec>
+  </tool>
+  <tool name="cache:flush" description="Flushes cache storage used by cache type(s)" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="bin/magento cache:flush" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/codepool" />
+    </exec>
+  </tool>
+  <tool name="indexer:reindex" description="Reindexes Data" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="bin/magento indexer:reindex" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/codepool" />
+    </exec>
+  </tool>
+</toolSet>

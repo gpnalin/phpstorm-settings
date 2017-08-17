@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.phtn</mask>
+      <mask>*.phtml,*.phtml</mask>
+      <mask>*.phtml,*.phtm</mask>
+      <mask>*.phtml,*.pht</mask>
+      <mask>*.phtml,*.ph</mask>
+      <mask>*.phtml,*.p</mask>
+      <mask>*.phtml,*.js,*</mask>
+      <mask>*.phtml,*.js,*.</mask>
+      <mask>*.phtml,*.js,*.h</mask>
+      <mask>*.phtml,*.js,*.ht</mask>
+      <mask>*.phtml,*.js,*.htm</mask>
+      <mask>*.phtml,*.js,*.html</mask>
+      <mask>*.phtml,*.js,</mask>
+      <mask>*.phtml,*.js</mask>
+      <mask>*.phtml,*.j</mask>
+      <mask>*.phtml,*.</mask>
+      <mask>*.phtml,*</mask>
+      <mask>*.phtml,</mask>
+      <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>

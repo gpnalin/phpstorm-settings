@@ -1,50 +1,11 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="PhpProjectSharedConfiguration" php_language_level="7" />
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Internationalization issues</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>AngularJS</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
       </component>
-      <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="Errors" />
-        <property name="last_opened_file_path" value="/usr/lib/php/20151012/xdebug.so" />
-      </component>
-      <component name="SvnConfiguration">
-        <configuration />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="Copyright.UI">
-            <settings>
-              <last-edited>NS</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
-      </component>
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
     </defaultProject>
   </component>
 </application>

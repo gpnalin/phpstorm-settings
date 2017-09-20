@@ -2,10 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.phtml,*.js</mask>
       <mask>*.phtml,*.j</mask>
@@ -17,7 +14,6 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.p</mask>
       <mask>*.php,</mask>
       <mask>*.php,*</mask>
       <mask>*.php,*.</mask>
@@ -29,13 +25,14 @@
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
+      <mask>*.pht</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.pht</mask>
       <mask>*.phtml</mask>
     </recentFileMasks>
   </component>

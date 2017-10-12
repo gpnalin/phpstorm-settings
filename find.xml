@@ -3,37 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.xml,!*.js,!*.html,!*.htm" />
     <recentFileMasks>
-      <mask>*.phtml,</mask>
-      <mask>*.php,</mask>
-      <mask>*.php,*</mask>
-      <mask>*.php,*.</mask>
-      <mask>*.php,*.p</mask>
-      <mask>*.php,*.ph</mask>
-      <mask>*.php,*.pht</mask>
-      <mask>*.php,*.phtm</mask>
-      <mask>*.php,*.phtml</mask>
-      <mask>*</mask>
-      <mask>*.phtm</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtml</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>!*.xml</mask>
+      <mask>!*.xml,</mask>
+      <mask>!*.xml,!*.xml</mask>
+      <mask>!*.xml,!*.xm</mask>
+      <mask>!*.xml,!*.</mask>
+      <mask>!*.xml,!*.j</mask>
+      <mask>!*.xml,!*.js</mask>
+      <mask>!*.xml,!*.js,</mask>
+      <mask>!*.xml,!*.js,!*.xml</mask>
+      <mask>!*.xml,!*.js,!*.xm</mask>
+      <mask>!*.xml,!*.js,!*.x</mask>
+      <mask>!*.xml,!*.js,!*.</mask>
+      <mask>!*.xml,!*.js,!*.h</mask>
+      <mask>!*.xml,!*.js,!*.ht</mask>
+      <mask>!*.xml,!*.js,!*.htm</mask>
+      <mask>!*.xml,!*.js,!*.html</mask>
+      <mask>!*.xml,!*.js,!*.html,</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.xml</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.xm</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.x</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.h</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.ht</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.htm</mask>
     </recentFileMasks>
   </component>
 </application>

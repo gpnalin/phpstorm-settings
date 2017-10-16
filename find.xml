@@ -3,37 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.less,!*.css" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>!*.xml</mask>
-      <mask>!*.xml,</mask>
-      <mask>!*.xml,!*.xml</mask>
-      <mask>!*.xml,!*.xm</mask>
-      <mask>!*.xml,!*.</mask>
-      <mask>!*.xml,!*.j</mask>
-      <mask>!*.xml,!*.js</mask>
-      <mask>!*.xml,!*.js,</mask>
-      <mask>!*.xml,!*.js,!*.xml</mask>
-      <mask>!*.xml,!*.js,!*.xm</mask>
-      <mask>!*.xml,!*.js,!*.x</mask>
-      <mask>!*.xml,!*.js,!*.</mask>
-      <mask>!*.xml,!*.js,!*.h</mask>
-      <mask>!*.xml,!*.js,!*.ht</mask>
-      <mask>!*.xml,!*.js,!*.htm</mask>
-      <mask>!*.xml,!*.js,!*.html</mask>
-      <mask>!*.xml,!*.js,!*.html,</mask>
-      <mask>!*.xml,!*.js,!*.html,!*.xml</mask>
-      <mask>!*.xml,!*.js,!*.html,!*.xm</mask>
-      <mask>!*.xml,!*.js,!*.html,!*.x</mask>
-      <mask>!*.xml,!*.js,!*.html,!*.</mask>
-      <mask>!*.xml,!*.js,!*.html,!*.h</mask>
-      <mask>!*.xml,!*.js,!*.html,!*.ht</mask>
-      <mask>!*.xml,!*.js,!*.html,!*.htm</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.htm,!*.less,!*.cs</mask>
+      <mask>!*.xml,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>*.xml,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>.xml,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>xml,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>ml,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>l,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>*.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>.js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>js,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>s,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>,!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>!*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>*.html,!*.htm,!*.less,!*.css</mask>
+      <mask>.html,!*.htm,!*.less,!*.css</mask>
+      <mask>html,!*.htm,!*.less,!*.css</mask>
+      <mask>tml,!*.htm,!*.less,!*.css</mask>
+      <mask>ml,!*.htm,!*.less,!*.css</mask>
+      <mask>l,!*.htm,!*.less,!*.css</mask>
+      <mask>,!*.htm,!*.less,!*.css</mask>
+      <mask>!*.htm,!*.less,!*.css</mask>
+      <mask>*.htm,!*.less,!*.css</mask>
+      <mask>.htm,!*.less,!*.css</mask>
+      <mask>htm,!*.less,!*.css</mask>
+      <mask>tm,!*.less,!*.css</mask>
+      <mask>m,!*.less,!*.css</mask>
+      <mask>,!*.less,!*.css</mask>
+      <mask>!*.less,!*.css</mask>
     </recentFileMasks>
   </component>
 </application>

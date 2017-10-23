@@ -4,12 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>xml,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
-      <mask>ml,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
-      <mask>l,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
-      <mask>,!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
-      <mask>!*.js,!*.html,!*.htm,!*.less,!*.css</mask>
-      <mask>*.js,!*.html,!*.htm,!*.less,!*.css</mask>
       <mask>.js,!*.html,!*.htm,!*.less,!*.css</mask>
       <mask>js,!*.html,!*.htm,!*.less,!*.css</mask>
       <mask>s,!*.html,!*.htm,!*.less,!*.css</mask>
@@ -34,6 +28,12 @@
       <mask>!*.ph</mask>
       <mask>!*.php</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -30,10 +30,10 @@
       <mask>*.pht</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

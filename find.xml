@@ -19,21 +19,21 @@
       <mask>!*.htm,*.less</mask>
       <mask>*.less</mask>
       <mask>*</mask>
-      <mask>*.phtml</mask>
       <mask>*.phtm</mask>
-      <mask>*.pht</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.j</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -7,8 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>!*.htm,!*.less,!*.css</mask>
@@ -38,6 +38,7 @@
       <mask>*.phtml</mask>
       <mask>*.less</mask>
       <mask>*.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>

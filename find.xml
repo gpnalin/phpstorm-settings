@@ -31,11 +31,11 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.phtml</mask>
       <mask>*.less</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
       <mask>*.xml</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -32,8 +32,8 @@
       <mask>*.less</mask>
       <mask>*.scss</mask>
       <mask>*.phtml</mask>
-      <mask>*.xml</mask>
       <mask>*.php</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>

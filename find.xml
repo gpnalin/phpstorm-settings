@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -31,9 +32,9 @@
       <mask>*.xm</mask>
       <mask>*.less</mask>
       <mask>*.scss</mask>
-      <mask>*.phtml</mask>
       <mask>*.php</mask>
       <mask>*.xml</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>

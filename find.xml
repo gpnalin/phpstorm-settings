@@ -3,37 +3,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>!*.htm,!*.less,!*.css</mask>
-      <mask>!*.htm,!*.less,!*.cs</mask>
-      <mask>!*.htm,!*.less,!*.c</mask>
-      <mask>!*.htm,!*.less,!*.</mask>
-      <mask>!*.htm,!*.less,!*</mask>
-      <mask>!*.htm,!*.less,!</mask>
-      <mask>!*.htm,!*.less,</mask>
-      <mask>!*.htm,!*.less</mask>
-      <mask>!*.htm,*.less</mask>
-      <mask>*</mask>
-      <mask>*.phtm</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.pht</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.less</mask>
-      <mask>*.scss</mask>
-      <mask>*.php</mask>
-      <mask>*.xml</mask>
-      <mask>*.phtml</mask>
-      <mask>*.</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.xml" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

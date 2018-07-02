@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Tool_External Tools_cache:clean">
+        <abbreviation name="cc" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
